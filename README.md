@@ -123,7 +123,7 @@ Evaluated on a chronological 20% holdout test set (no future leakage):
 
 ### Step 1: Clone and Enter Repository
 ```bash
-git clone https://github.com/placeholder-user/ExecutiveIQ.git
+git clone https://github.com/NARENKARTHICK1234/ExecutiveIQ.git
 cd ExecutiveIQ
 ```
 
@@ -182,7 +182,7 @@ Visit `http://localhost:8000`.
    git add .
    git commit -m "feat: complete production-ready ExecutiveIQ platform"
    git branch -M main
-   git remote add origin https://github.com/<YOUR_USERNAME>/ExecutiveIQ.git
+   git remote add origin https://github.com/NARENKARTHICK1234/ExecutiveIQ.git
    git push -u origin main
    ```
 2. In the [Render Dashboard](https://dashboard.render.com/):

@@ -31,7 +31,7 @@ git commit -m "feat: complete ExecutiveIQ BI and Decision Analytics platform"
 git branch -M main
 
 # Add remote (Replace with your actual GitHub repository URL when created)
-git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/ExecutiveIQ.git
+git remote add origin https://github.com/NARENKARTHICK1234/ExecutiveIQ.git
 
 # Push to GitHub (Only run after creating the repository on GitHub)
 # git push -u origin main
