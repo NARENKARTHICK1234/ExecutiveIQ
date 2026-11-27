@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: executiveiq
+    runtime: docker
+    plan: free
+    region: singapore
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /api/health
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: ENVIRONMENT
+        value: production
+      - key: DATA_DIR
+        value: data
+      - key: ALLOWED_ORIGINS
+        value: "*"

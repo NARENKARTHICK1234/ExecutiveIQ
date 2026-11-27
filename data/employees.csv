@@ -1,0 +1,501 @@
+employee_id,department_id,joining_date,employment_status,exit_date,job_role,monthly_salary
+EMP-0001,DEP-004,2022-02-20,Active,,Support Specialist,66943.85
+EMP-0002,DEP-002,2023-09-02,Resigned,2024-11-03,Financial Analyst,84483.95
+EMP-0003,DEP-004,2021-10-20,Active,,Technical Support Engineer,124919.88
+EMP-0004,DEP-001,2023-07-28,Active,,Enterprise Deal Strategist,46149.42
+EMP-0005,DEP-001,2023-05-27,Active,,Enterprise Deal Strategist,224813.61
+EMP-0006,DEP-001,2023-01-05,Active,,Account Manager,221548.9
+EMP-0007,DEP-004,2023-07-03,Active,,Support Specialist,43691.86
+EMP-0008,DEP-004,2022-09-20,Active,,Escalations Lead,45285.77
+EMP-0009,DEP-006,2022-10-04,Active,,Supply Chain Planner,122349.14
+EMP-0010,DEP-004,2022-12-03,Active,,Support Specialist,119334.97
+EMP-0011,DEP-003,2022-09-29,Active,,Brand Designer,128571.56
+EMP-0012,DEP-006,2021-04-30,Active,,Supply Chain Planner,107853.16
+EMP-0013,DEP-001,2022-12-15,Active,,Regional Sales Lead,80865.31
+EMP-0014,DEP-001,2023-04-26,Active,,Enterprise Deal Strategist,162380.84
+EMP-0015,DEP-001,2022-01-30,Active,,Sales Executive,79673.49
+EMP-0016,DEP-001,2023-07-06,Active,,Enterprise Deal Strategist,92577.57
+EMP-0017,DEP-001,2023-05-27,Active,,Account Manager,117404.82
+EMP-0018,DEP-002,2022-08-21,Active,,Risk Analyst,122669.89
+EMP-0019,DEP-003,2022-08-28,Resigned,2023-10-25,Brand Designer,103528.86
+EMP-0020,DEP-004,2023-05-15,Active,,Technical Support Engineer,154833.74
+EMP-0021,DEP-002,2021-06-02,Resigned,2022-04-07,Accountant,113207.94
+EMP-0022,DEP-006,2023-07-19,Active,,Supply Chain Planner,198084.68
+EMP-0023,DEP-003,2023-12-05,Active,,SEO Content Lead,160253.67
+EMP-0024,DEP-006,2022-07-05,Active,,Logistics Coordinator,136172.83
+EMP-0025,DEP-005,2022-01-25,Active,,HR Operations Partner,91318.45
+EMP-0026,DEP-001,2021-12-01,Active,,Account Manager,57751.65
+EMP-0027,DEP-003,2022-03-08,Active,,Growth Marketer,51622.44
+EMP-0028,DEP-005,2021-12-09,Active,,HR Operations Partner,109197.15
+EMP-0029,DEP-006,2022-07-09,Active,,Warehouse Supervisor,48526.41
+EMP-0030,DEP-004,2021-04-28,Active,,Escalations Lead,107374.92
+EMP-0031,DEP-006,2021-10-22,Active,,Supply Chain Planner,157641.94
+EMP-0032,DEP-004,2023-04-08,Active,,Escalations Lead,113409.57
+EMP-0033,DEP-001,2022-09-26,Resigned,2024-01-23,Sales Executive,61195.63
+EMP-0034,DEP-003,2022-10-11,Active,,Performance Media Buyer,166598.14
+EMP-0035,DEP-005,2021-09-23,Active,,HR Operations Partner,58809.42
+EMP-0036,DEP-004,2021-09-16,Active,,Technical Support Engineer,50484.19
+EMP-0037,DEP-001,2022-01-18,Active,,Regional Sales Lead,136433.4
+EMP-0038,DEP-001,2022-07-22,Resigned,2023-08-08,Enterprise Deal Strategist,46587.35
+EMP-0039,DEP-004,2022-06-21,Active,,Escalations Lead,145035.22
+EMP-0040,DEP-003,2021-03-30,Resigned,2022-04-01,SEO Content Lead,232615.13
+EMP-0041,DEP-001,2023-03-17,Active,,Enterprise Deal Strategist,162053.76
+EMP-0042,DEP-004,2021-02-17,Active,,Technical Support Engineer,190841.74
+EMP-0043,DEP-001,2023-07-23,Active,,Sales Executive,85609.86
+EMP-0044,DEP-001,2023-07-28,Active,,Sales Executive,157646.52
+EMP-0045,DEP-006,2023-04-23,Active,,Warehouse Supervisor,159956.48
+EMP-0046,DEP-002,2023-06-12,Active,,Risk Analyst,235495.69
+EMP-0047,DEP-001,2021-12-07,Active,,Regional Sales Lead,131475.94
+EMP-0048,DEP-001,2023-12-05,Active,,Account Manager,222934.02
+EMP-0049,DEP-006,2021-05-31,Active,,Warehouse Supervisor,58224.12
+EMP-0050,DEP-002,2022-09-29,Active,,Treasury Specialist,233105.03
+EMP-0051,DEP-004,2021-08-09,Active,,Support Specialist,51122.04
+EMP-0052,DEP-003,2024-01-02,Active,,Performance Media Buyer,121936.1
+EMP-0053,DEP-001,2021-07-18,Active,,Account Manager,94181.76
+EMP-0054,DEP-006,2022-02-28,Active,,Logistics Coordinator,96463.96
+EMP-0055,DEP-006,2023-12-10,Active,,Logistics Coordinator,123246.87
+EMP-0056,DEP-006,2023-08-30,Active,,Supply Chain Planner,89776.98
+EMP-0057,DEP-001,2022-08-31,Active,,Account Manager,121299.07
+EMP-0058,DEP-001,2022-11-24,Active,,Account Manager,217624.12
+EMP-0059,DEP-006,2021-02-02,Active,,Logistics Coordinator,157435.71
+EMP-0060,DEP-001,2021-11-19,Active,,Account Manager,65206.68
+EMP-0061,DEP-004,2023-11-04,Active,,Customer Success Rep,137818.56
+EMP-0062,DEP-004,2023-04-03,Active,,Technical Support Engineer,190990.64
+EMP-0063,DEP-004,2022-08-10,Active,,Customer Success Rep,160217.82
+EMP-0064,DEP-001,2023-12-04,Active,,Enterprise Deal Strategist,129961.26
+EMP-0065,DEP-002,2022-02-22,Active,,Risk Analyst,114714.48
+EMP-0066,DEP-003,2022-10-18,Active,,Brand Designer,83909.73
+EMP-0067,DEP-001,2022-12-21,Resigned,2024-03-11,Sales Executive,61271.12
+EMP-0068,DEP-006,2022-08-02,Active,,Supply Chain Planner,64913.49
+EMP-0069,DEP-005,2022-01-24,Active,,Talent Acquisition Lead,46656.01
+EMP-0070,DEP-001,2022-01-06,Active,,Regional Sales Lead,116821.22
+EMP-0071,DEP-004,2021-05-07,Active,,Support Specialist,93761.44
+EMP-0072,DEP-003,2021-02-07,Active,,Growth Marketer,49353.52
+EMP-0073,DEP-002,2022-03-25,Active,,Risk Analyst,58762.38
+EMP-0074,DEP-002,2022-07-01,Active,,Financial Analyst,209298.18
+EMP-0075,DEP-004,2023-01-26,Active,,Support Specialist,64461.13
+EMP-0076,DEP-006,2022-12-19,Active,,Logistics Coordinator,43035.53
+EMP-0077,DEP-005,2021-09-27,Active,,Talent Acquisition Lead,51614.08
+EMP-0078,DEP-002,2021-03-05,Active,,Risk Analyst,62091.53
+EMP-0079,DEP-004,2023-04-02,Active,,Customer Success Rep,45080.15
+EMP-0080,DEP-003,2023-06-14,Active,,Brand Designer,91338.04
+EMP-0081,DEP-003,2021-11-15,Active,,Growth Marketer,63641.17
+EMP-0082,DEP-002,2022-10-01,Active,,Financial Analyst,162669.5
+EMP-0083,DEP-001,2022-11-17,Active,,Regional Sales Lead,95362.03
+EMP-0084,DEP-001,2022-04-05,Active,,Regional Sales Lead,162943.37
+EMP-0085,DEP-004,2021-07-23,Active,,Technical Support Engineer,51096.59
+EMP-0086,DEP-004,2022-09-29,Active,,Escalations Lead,48809.36
+EMP-0087,DEP-001,2021-08-24,Active,,Account Manager,197651.21
+EMP-0088,DEP-002,2022-12-02,Active,,Risk Analyst,77668.1
+EMP-0089,DEP-001,2021-09-24,Active,,Regional Sales Lead,42865.41
+EMP-0090,DEP-004,2021-08-27,Active,,Escalations Lead,108031.35
+EMP-0091,DEP-006,2022-05-24,Active,,Warehouse Supervisor,55461.19
+EMP-0092,DEP-006,2022-01-28,Active,,Warehouse Supervisor,40758.48
+EMP-0093,DEP-006,2022-02-16,Active,,Logistics Coordinator,57297.34
+EMP-0094,DEP-006,2021-09-28,Active,,Warehouse Supervisor,63348.95
+EMP-0095,DEP-004,2022-01-26,Active,,Support Specialist,45819.08
+EMP-0096,DEP-001,2021-05-10,Active,,Account Manager,90385.53
+EMP-0097,DEP-005,2023-09-28,Resigned,2024-08-15,People Ops Lead,126768.58
+EMP-0098,DEP-004,2021-09-29,Active,,Escalations Lead,164115.52
+EMP-0099,DEP-001,2022-06-09,Active,,Account Manager,54917.55
+EMP-0100,DEP-001,2021-03-26,Active,,Account Manager,114368.35
+EMP-0101,DEP-001,2023-02-17,Active,,Regional Sales Lead,230098.89
+EMP-0102,DEP-003,2022-01-05,Active,,Performance Media Buyer,93096.26
+EMP-0103,DEP-002,2023-03-16,Active,,Treasury Specialist,169803.79
+EMP-0104,DEP-006,2021-02-01,Active,,Warehouse Supervisor,60614.6
+EMP-0105,DEP-001,2023-12-05,Active,,Regional Sales Lead,50952.51
+EMP-0106,DEP-002,2023-12-13,Active,,Accountant,165542.11
+EMP-0107,DEP-006,2022-01-16,Resigned,2023-05-10,Inventory Controller,195604.44
+EMP-0108,DEP-006,2022-11-14,Active,,Logistics Coordinator,126975.21
+EMP-0109,DEP-004,2022-10-22,Active,,Customer Success Rep,85564.05
+EMP-0110,DEP-006,2023-01-29,Active,,Inventory Controller,63142.4
+EMP-0111,DEP-001,2022-12-23,Active,,Enterprise Deal Strategist,167043.74
+EMP-0112,DEP-005,2023-01-03,Active,,Talent Acquisition Lead,50984.16
+EMP-0113,DEP-003,2023-11-30,Active,,Growth Marketer,231291.39
+EMP-0114,DEP-004,2023-06-11,Active,,Support Specialist,190549.14
+EMP-0115,DEP-003,2022-08-24,Active,,Brand Designer,95760.34
+EMP-0116,DEP-004,2021-07-17,Active,,Support Specialist,91043.92
+EMP-0117,DEP-001,2022-10-11,Active,,Enterprise Deal Strategist,223703.21
+EMP-0118,DEP-004,2023-07-10,Active,,Escalations Lead,164959.45
+EMP-0119,DEP-002,2022-07-06,Active,,Accountant,109721.68
+EMP-0120,DEP-002,2021-05-23,Active,,Risk Analyst,40602.77
+EMP-0121,DEP-002,2023-03-09,Active,,Risk Analyst,106157.66
+EMP-0122,DEP-001,2023-01-05,Active,,Enterprise Deal Strategist,110657.57
+EMP-0123,DEP-001,2021-07-30,Active,,Sales Executive,50546.57
+EMP-0124,DEP-006,2023-11-25,Active,,Inventory Controller,121767.48
+EMP-0125,DEP-003,2023-12-23,Active,,Brand Designer,68852.52
+EMP-0126,DEP-004,2023-05-16,Resigned,2024-08-21,Support Specialist,47715.22
+EMP-0127,DEP-004,2023-04-19,Resigned,2024-03-01,Escalations Lead,68435.85
+EMP-0128,DEP-001,2023-02-18,Active,,Enterprise Deal Strategist,119193.0
+EMP-0129,DEP-001,2023-07-03,Active,,Enterprise Deal Strategist,145710.66
+EMP-0130,DEP-001,2023-07-23,Active,,Sales Executive,78337.27
+EMP-0131,DEP-005,2021-02-19,Active,,Training Coordinator,54224.25
+EMP-0132,DEP-001,2023-06-19,Active,,Account Manager,81242.72
+EMP-0133,DEP-001,2022-03-25,Active,,Regional Sales Lead,117371.97
+EMP-0134,DEP-006,2021-10-01,Resigned,2022-12-09,Inventory Controller,59884.82
+EMP-0135,DEP-005,2022-06-10,Resigned,2023-03-08,Training Coordinator,97241.97
+EMP-0136,DEP-001,2023-10-29,Active,,Regional Sales Lead,88423.93
+EMP-0137,DEP-004,2021-06-29,Active,,Customer Success Rep,104963.42
+EMP-0138,DEP-003,2023-01-01,Active,,SEO Content Lead,223060.63
+EMP-0139,DEP-002,2021-01-10,Active,,Treasury Specialist,48367.34
+EMP-0140,DEP-003,2022-10-03,Active,,Brand Designer,41369.3
+EMP-0141,DEP-001,2023-02-24,Active,,Enterprise Deal Strategist,189505.62
+EMP-0142,DEP-006,2023-04-14,Active,,Supply Chain Planner,51544.2
+EMP-0143,DEP-001,2023-04-13,Active,,Sales Executive,42630.66
+EMP-0144,DEP-001,2023-06-24,Active,,Enterprise Deal Strategist,83861.93
+EMP-0145,DEP-002,2022-05-29,Active,,Financial Analyst,153869.31
+EMP-0146,DEP-001,2023-12-03,Active,,Enterprise Deal Strategist,123776.64
+EMP-0147,DEP-002,2023-02-28,Active,,Accountant,162797.34
+EMP-0148,DEP-001,2022-12-09,Active,,Account Manager,119834.22
+EMP-0149,DEP-004,2023-10-23,Active,,Escalations Lead,40822.31
+EMP-0150,DEP-001,2021-02-13,Active,,Sales Executive,121442.02
+EMP-0151,DEP-006,2023-10-08,Active,,Warehouse Supervisor,63369.69
+EMP-0152,DEP-001,2021-05-31,Active,,Account Manager,50724.35
+EMP-0153,DEP-001,2022-07-08,Resigned,2023-05-03,Regional Sales Lead,63328.15
+EMP-0154,DEP-001,2023-10-15,Active,,Account Manager,140838.1
+EMP-0155,DEP-003,2021-07-18,Active,,SEO Content Lead,57887.9
+EMP-0156,DEP-005,2023-10-12,Active,,Training Coordinator,141929.98
+EMP-0157,DEP-003,2022-10-27,Active,,Brand Designer,90696.88
+EMP-0158,DEP-006,2023-03-03,Active,,Supply Chain Planner,212171.97
+EMP-0159,DEP-004,2022-04-06,Active,,Technical Support Engineer,81626.71
+EMP-0160,DEP-001,2021-05-01,Active,,Enterprise Deal Strategist,50980.01
+EMP-0161,DEP-001,2021-09-28,Active,,Enterprise Deal Strategist,80743.63
+EMP-0162,DEP-002,2022-01-06,Active,,Financial Analyst,163995.05
+EMP-0163,DEP-006,2022-11-23,Resigned,2023-09-07,Logistics Coordinator,55883.94
+EMP-0164,DEP-003,2023-03-25,Active,,SEO Content Lead,50130.92
+EMP-0165,DEP-006,2023-09-06,Active,,Inventory Controller,114508.06
+EMP-0166,DEP-001,2023-07-12,Active,,Enterprise Deal Strategist,89325.14
+EMP-0167,DEP-004,2021-01-30,Active,,Escalations Lead,81872.78
+EMP-0168,DEP-003,2023-01-13,Active,,Growth Marketer,57244.97
+EMP-0169,DEP-001,2022-11-26,Resigned,2023-08-27,Sales Executive,227754.81
+EMP-0170,DEP-001,2021-04-16,Active,,Regional Sales Lead,142923.76
+EMP-0171,DEP-002,2023-05-17,Resigned,2024-03-29,Financial Analyst,59980.01
+EMP-0172,DEP-005,2022-02-03,Resigned,2022-10-23,Training Coordinator,199170.25
+EMP-0173,DEP-004,2021-10-04,Active,,Escalations Lead,79678.89
+EMP-0174,DEP-003,2023-10-21,Active,,Performance Media Buyer,202732.39
+EMP-0175,DEP-006,2023-05-25,Active,,Inventory Controller,85970.32
+EMP-0176,DEP-001,2022-03-17,Active,,Regional Sales Lead,95823.25
+EMP-0177,DEP-001,2022-10-21,Active,,Regional Sales Lead,49424.02
+EMP-0178,DEP-003,2021-06-07,Active,,SEO Content Lead,124769.33
+EMP-0179,DEP-004,2022-04-30,Active,,Support Specialist,83607.52
+EMP-0180,DEP-002,2022-01-20,Active,,Risk Analyst,64912.9
+EMP-0181,DEP-003,2022-12-27,Active,,Growth Marketer,152309.35
+EMP-0182,DEP-001,2022-06-19,Active,,Account Manager,84538.7
+EMP-0183,DEP-001,2022-01-31,Active,,Account Manager,48091.24
+EMP-0184,DEP-006,2023-03-26,Active,,Inventory Controller,59090.37
+EMP-0185,DEP-003,2022-06-20,Active,,Growth Marketer,166099.76
+EMP-0186,DEP-001,2022-10-28,Active,,Sales Executive,114196.08
+EMP-0187,DEP-002,2021-10-20,Active,,Treasury Specialist,201227.37
+EMP-0188,DEP-003,2021-04-25,Active,,Growth Marketer,95414.71
+EMP-0189,DEP-006,2021-04-03,Active,,Warehouse Supervisor,68558.92
+EMP-0190,DEP-004,2023-06-22,Active,,Technical Support Engineer,224333.26
+EMP-0191,DEP-006,2021-11-29,Active,,Warehouse Supervisor,81444.14
+EMP-0192,DEP-001,2021-07-23,Active,,Sales Executive,142372.3
+EMP-0193,DEP-001,2022-09-18,Active,,Regional Sales Lead,49716.83
+EMP-0194,DEP-002,2022-08-31,Active,,Financial Analyst,67071.05
+EMP-0195,DEP-001,2021-02-15,Active,,Enterprise Deal Strategist,97478.43
+EMP-0196,DEP-006,2023-10-23,Active,,Warehouse Supervisor,128524.83
+EMP-0197,DEP-001,2022-10-03,Active,,Sales Executive,225399.7
+EMP-0198,DEP-001,2021-10-04,Active,,Regional Sales Lead,164986.42
+EMP-0199,DEP-003,2022-02-06,Active,,Performance Media Buyer,80633.41
+EMP-0200,DEP-004,2023-09-28,Active,,Technical Support Engineer,67900.88
+EMP-0201,DEP-002,2021-11-14,Active,,Financial Analyst,216224.02
+EMP-0202,DEP-001,2023-12-29,Active,,Account Manager,48864.54
+EMP-0203,DEP-005,2021-10-10,Active,,Training Coordinator,228250.37
+EMP-0204,DEP-006,2023-05-19,Active,,Supply Chain Planner,240755.67
+EMP-0205,DEP-005,2021-04-02,Active,,Training Coordinator,96516.21
+EMP-0206,DEP-006,2023-11-15,Active,,Warehouse Supervisor,225472.2
+EMP-0207,DEP-006,2022-04-19,Active,,Logistics Coordinator,43192.03
+EMP-0208,DEP-005,2022-11-20,Active,,People Ops Lead,47524.96
+EMP-0209,DEP-005,2022-03-02,Active,,Training Coordinator,88943.53
+EMP-0210,DEP-001,2021-04-19,Active,,Account Manager,46799.53
+EMP-0211,DEP-001,2023-08-14,Active,,Regional Sales Lead,234029.28
+EMP-0212,DEP-001,2023-01-06,Resigned,2024-01-21,Regional Sales Lead,126325.84
+EMP-0213,DEP-004,2022-06-10,Active,,Escalations Lead,43220.21
+EMP-0214,DEP-001,2022-12-04,Active,,Account Manager,130222.65
+EMP-0215,DEP-001,2023-10-02,Active,,Account Manager,195008.69
+EMP-0216,DEP-001,2021-09-07,Active,,Account Manager,161625.51
+EMP-0217,DEP-001,2022-01-10,Active,,Enterprise Deal Strategist,46137.84
+EMP-0218,DEP-004,2022-05-16,Active,,Technical Support Engineer,85349.49
+EMP-0219,DEP-001,2022-09-18,Active,,Enterprise Deal Strategist,45442.96
+EMP-0220,DEP-006,2021-01-18,Active,,Logistics Coordinator,227296.3
+EMP-0221,DEP-006,2022-02-27,Resigned,2023-06-04,Supply Chain Planner,62888.89
+EMP-0222,DEP-003,2021-06-06,Active,,Performance Media Buyer,234858.75
+EMP-0223,DEP-003,2023-01-09,Active,,Growth Marketer,46374.0
+EMP-0224,DEP-001,2023-07-07,Active,,Sales Executive,49303.09
+EMP-0225,DEP-004,2022-07-01,Active,,Technical Support Engineer,223763.24
+EMP-0226,DEP-006,2023-01-30,Active,,Warehouse Supervisor,94262.51
+EMP-0227,DEP-001,2021-08-22,Active,,Regional Sales Lead,58897.72
+EMP-0228,DEP-006,2022-09-18,Active,,Inventory Controller,79505.66
+EMP-0229,DEP-001,2022-01-29,Active,,Enterprise Deal Strategist,84923.86
+EMP-0230,DEP-001,2023-04-19,Active,,Enterprise Deal Strategist,94980.76
+EMP-0231,DEP-006,2022-04-06,Active,,Inventory Controller,67300.85
+EMP-0232,DEP-004,2021-02-21,Active,,Technical Support Engineer,122529.38
+EMP-0233,DEP-001,2021-07-29,Active,,Regional Sales Lead,60138.35
+EMP-0234,DEP-005,2021-06-19,Active,,Training Coordinator,90897.2
+EMP-0235,DEP-004,2022-10-12,Active,,Technical Support Engineer,213316.44
+EMP-0236,DEP-005,2021-10-02,Active,,Talent Acquisition Lead,44409.98
+EMP-0237,DEP-001,2021-03-26,Active,,Regional Sales Lead,116163.19
+EMP-0238,DEP-006,2021-06-11,Active,,Inventory Controller,223416.21
+EMP-0239,DEP-005,2022-03-07,Active,,HR Operations Partner,59262.91
+EMP-0240,DEP-006,2021-08-20,Active,,Logistics Coordinator,195206.85
+EMP-0241,DEP-003,2022-03-29,Active,,Performance Media Buyer,96765.64
+EMP-0242,DEP-003,2022-08-22,Active,,SEO Content Lead,231583.89
+EMP-0243,DEP-004,2022-08-04,Active,,Support Specialist,44228.71
+EMP-0244,DEP-001,2021-08-01,Active,,Enterprise Deal Strategist,76872.23
+EMP-0245,DEP-001,2023-01-24,Active,,Enterprise Deal Strategist,240527.76
+EMP-0246,DEP-002,2021-03-19,Resigned,2021-11-10,Accountant,231916.2
+EMP-0247,DEP-006,2023-10-08,Active,,Logistics Coordinator,48574.21
+EMP-0248,DEP-001,2021-12-03,Active,,Sales Executive,144243.58
+EMP-0249,DEP-006,2021-05-05,Active,,Supply Chain Planner,214040.49
+EMP-0250,DEP-002,2023-11-12,Active,,Treasury Specialist,68008.7
+EMP-0251,DEP-004,2021-12-30,Active,,Support Specialist,232839.15
+EMP-0252,DEP-003,2021-12-09,Active,,Performance Media Buyer,84332.09
+EMP-0253,DEP-005,2021-02-16,Active,,Talent Acquisition Lead,63996.58
+EMP-0254,DEP-006,2023-11-20,Active,,Warehouse Supervisor,123314.22
+EMP-0255,DEP-003,2021-05-03,Active,,Brand Designer,235677.53
+EMP-0256,DEP-001,2022-04-29,Active,,Enterprise Deal Strategist,62744.44
+EMP-0257,DEP-001,2023-12-15,Active,,Regional Sales Lead,55758.12
+EMP-0258,DEP-001,2023-03-07,Resigned,2024-06-08,Regional Sales Lead,136549.34
+EMP-0259,DEP-001,2022-06-04,Active,,Sales Executive,120049.38
+EMP-0260,DEP-001,2022-04-18,Active,,Regional Sales Lead,167628.0
+EMP-0261,DEP-006,2022-02-25,Active,,Logistics Coordinator,85707.59
+EMP-0262,DEP-004,2021-03-17,Active,,Escalations Lead,50004.4
+EMP-0263,DEP-003,2021-03-26,Active,,Performance Media Buyer,200699.02
+EMP-0264,DEP-001,2021-03-28,Active,,Enterprise Deal Strategist,47604.32
+EMP-0265,DEP-001,2021-08-22,Active,,Enterprise Deal Strategist,190292.61
+EMP-0266,DEP-002,2021-04-02,Active,,Treasury Specialist,85308.97
+EMP-0267,DEP-001,2023-03-06,Active,,Regional Sales Lead,57672.55
+EMP-0268,DEP-001,2023-04-16,Resigned,2024-04-16,Regional Sales Lead,64869.81
+EMP-0269,DEP-001,2022-01-29,Active,,Account Manager,137474.34
+EMP-0270,DEP-005,2021-06-28,Resigned,2022-09-29,HR Operations Partner,48594.16
+EMP-0271,DEP-004,2021-03-31,Active,,Technical Support Engineer,48093.6
+EMP-0272,DEP-002,2023-01-06,Active,,Risk Analyst,112016.53
+EMP-0273,DEP-002,2021-06-26,Active,,Treasury Specialist,117493.04
+EMP-0274,DEP-002,2022-09-04,Active,,Treasury Specialist,91004.08
+EMP-0275,DEP-004,2023-07-08,Active,,Support Specialist,67255.94
+EMP-0276,DEP-006,2021-01-13,Active,,Inventory Controller,83945.16
+EMP-0277,DEP-003,2023-07-17,Active,,SEO Content Lead,51638.68
+EMP-0278,DEP-001,2023-06-22,Active,,Account Manager,223632.4
+EMP-0279,DEP-001,2023-03-22,Active,,Account Manager,64278.48
+EMP-0280,DEP-001,2023-01-14,Active,,Account Manager,89399.87
+EMP-0281,DEP-005,2023-05-05,Resigned,2023-11-15,Talent Acquisition Lead,67915.79
+EMP-0282,DEP-002,2022-10-22,Active,,Risk Analyst,117934.82
+EMP-0283,DEP-006,2023-12-15,Active,,Warehouse Supervisor,66273.81
+EMP-0284,DEP-002,2021-05-04,Active,,Treasury Specialist,143784.32
+EMP-0285,DEP-005,2023-08-15,Active,,Training Coordinator,60460.9
+EMP-0286,DEP-003,2023-04-22,Active,,Brand Designer,60496.33
+EMP-0287,DEP-006,2022-08-26,Active,,Supply Chain Planner,122474.12
+EMP-0288,DEP-004,2021-03-07,Active,,Escalations Lead,51478.79
+EMP-0289,DEP-001,2022-11-03,Active,,Enterprise Deal Strategist,96400.48
+EMP-0290,DEP-005,2022-08-21,Active,,HR Operations Partner,40848.56
+EMP-0291,DEP-001,2022-12-06,Active,,Enterprise Deal Strategist,167196.58
+EMP-0292,DEP-003,2021-12-22,Active,,SEO Content Lead,194276.34
+EMP-0293,DEP-001,2023-02-21,Active,,Enterprise Deal Strategist,85062.5
+EMP-0294,DEP-002,2021-07-17,Active,,Treasury Specialist,219346.35
+EMP-0295,DEP-003,2021-11-26,Active,,SEO Content Lead,91839.74
+EMP-0296,DEP-003,2022-12-17,Active,,SEO Content Lead,54052.27
+EMP-0297,DEP-002,2022-03-11,Active,,Financial Analyst,44977.84
+EMP-0298,DEP-004,2022-05-14,Active,,Customer Success Rep,106500.56
+EMP-0299,DEP-001,2022-07-06,Active,,Sales Executive,94681.23
+EMP-0300,DEP-005,2021-09-03,Resigned,2022-05-12,HR Operations Partner,93147.01
+EMP-0301,DEP-004,2022-10-18,Active,,Support Specialist,46345.15
+EMP-0302,DEP-002,2022-06-19,Active,,Risk Analyst,118598.11
+EMP-0303,DEP-003,2023-05-30,Active,,Performance Media Buyer,157817.92
+EMP-0304,DEP-003,2021-10-27,Active,,Growth Marketer,169648.76
+EMP-0305,DEP-006,2021-03-07,Active,,Logistics Coordinator,82470.57
+EMP-0306,DEP-003,2021-03-23,Active,,Growth Marketer,117260.68
+EMP-0307,DEP-005,2021-10-15,Active,,HR Operations Partner,48567.91
+EMP-0308,DEP-005,2021-06-26,Active,,People Ops Lead,128161.26
+EMP-0309,DEP-004,2021-05-05,Active,,Escalations Lead,156180.7
+EMP-0310,DEP-005,2021-08-20,Active,,HR Operations Partner,127946.3
+EMP-0311,DEP-001,2023-05-08,Active,,Enterprise Deal Strategist,169311.22
+EMP-0312,DEP-006,2022-01-01,Active,,Warehouse Supervisor,213497.89
+EMP-0313,DEP-004,2023-11-24,Active,,Support Specialist,54432.54
+EMP-0314,DEP-001,2021-09-03,Active,,Sales Executive,41367.18
+EMP-0315,DEP-004,2022-11-03,Active,,Support Specialist,84356.42
+EMP-0316,DEP-003,2023-08-05,Resigned,2024-02-17,Performance Media Buyer,67650.5
+EMP-0317,DEP-001,2022-04-26,Active,,Sales Executive,204534.51
+EMP-0318,DEP-003,2023-09-18,Resigned,2024-12-20,Brand Designer,209525.59
+EMP-0319,DEP-006,2021-12-23,Active,,Warehouse Supervisor,68717.05
+EMP-0320,DEP-006,2023-12-10,Active,,Warehouse Supervisor,66756.61
+EMP-0321,DEP-001,2023-07-28,Active,,Account Manager,97406.76
+EMP-0322,DEP-003,2021-05-16,Resigned,2022-09-21,Brand Designer,82077.9
+EMP-0323,DEP-003,2022-09-08,Active,,Growth Marketer,41651.79
+EMP-0324,DEP-004,2021-04-25,Active,,Technical Support Engineer,87294.61
+EMP-0325,DEP-005,2023-10-31,Active,,Training Coordinator,78940.18
+EMP-0326,DEP-005,2023-01-14,Active,,Talent Acquisition Lead,85412.18
+EMP-0327,DEP-004,2021-03-10,Active,,Technical Support Engineer,93352.32
+EMP-0328,DEP-006,2023-07-08,Active,,Logistics Coordinator,54270.19
+EMP-0329,DEP-003,2022-11-09,Active,,Growth Marketer,65999.18
+EMP-0330,DEP-001,2022-06-10,Active,,Regional Sales Lead,111276.25
+EMP-0331,DEP-003,2022-10-29,Active,,SEO Content Lead,139432.61
+EMP-0332,DEP-001,2022-07-22,Active,,Sales Executive,81061.25
+EMP-0333,DEP-004,2023-03-12,Resigned,2024-07-21,Support Specialist,169152.66
+EMP-0334,DEP-004,2023-06-12,Active,,Escalations Lead,125638.44
+EMP-0335,DEP-004,2023-05-23,Active,,Support Specialist,47795.3
+EMP-0336,DEP-003,2022-09-13,Active,,Growth Marketer,48294.24
+EMP-0337,DEP-004,2021-09-30,Active,,Customer Success Rep,68536.0
+EMP-0338,DEP-001,2023-05-15,Active,,Sales Executive,145746.75
+EMP-0339,DEP-006,2023-05-21,Active,,Logistics Coordinator,210389.27
+EMP-0340,DEP-006,2021-07-12,Active,,Inventory Controller,42110.29
+EMP-0341,DEP-006,2023-11-09,Active,,Warehouse Supervisor,81413.7
+EMP-0342,DEP-001,2021-01-25,Active,,Account Manager,79159.37
+EMP-0343,DEP-001,2022-07-06,Active,,Enterprise Deal Strategist,64818.13
+EMP-0344,DEP-001,2021-11-07,Resigned,2022-12-28,Enterprise Deal Strategist,172432.05
+EMP-0345,DEP-006,2022-09-07,Active,,Logistics Coordinator,86996.01
+EMP-0346,DEP-005,2022-10-30,Active,,People Ops Lead,97645.91
+EMP-0347,DEP-001,2021-07-02,Active,,Account Manager,153496.36
+EMP-0348,DEP-003,2023-10-22,Active,,SEO Content Lead,46214.1
+EMP-0349,DEP-003,2022-08-19,Active,,Brand Designer,45218.49
+EMP-0350,DEP-004,2022-04-12,Active,,Technical Support Engineer,59241.95
+EMP-0351,DEP-002,2022-02-09,Active,,Financial Analyst,80190.75
+EMP-0352,DEP-002,2022-08-03,Active,,Accountant,40686.69
+EMP-0353,DEP-003,2021-02-15,Active,,SEO Content Lead,113658.04
+EMP-0354,DEP-003,2023-09-24,Active,,Growth Marketer,136142.2
+EMP-0355,DEP-001,2021-08-01,Active,,Account Manager,41968.89
+EMP-0356,DEP-004,2021-01-29,Active,,Customer Success Rep,119687.81
+EMP-0357,DEP-001,2022-02-10,Active,,Regional Sales Lead,50447.18
+EMP-0358,DEP-006,2023-11-25,Resigned,2024-06-06,Logistics Coordinator,140491.76
+EMP-0359,DEP-005,2023-09-05,Active,,People Ops Lead,68621.62
+EMP-0360,DEP-006,2023-01-20,Active,,Logistics Coordinator,77050.57
+EMP-0361,DEP-001,2021-03-05,Active,,Sales Executive,164529.76
+EMP-0362,DEP-006,2023-10-30,Active,,Warehouse Supervisor,89528.71
+EMP-0363,DEP-004,2023-02-15,Active,,Support Specialist,56617.84
+EMP-0364,DEP-006,2021-04-23,Active,,Warehouse Supervisor,40721.77
+EMP-0365,DEP-001,2021-09-16,Active,,Account Manager,107218.3
+EMP-0366,DEP-002,2021-09-26,Active,,Treasury Specialist,46167.42
+EMP-0367,DEP-001,2023-09-30,Active,,Sales Executive,95318.57
+EMP-0368,DEP-001,2022-08-30,Active,,Regional Sales Lead,66395.1
+EMP-0369,DEP-006,2022-01-20,Active,,Logistics Coordinator,42080.64
+EMP-0370,DEP-003,2021-12-18,Active,,Performance Media Buyer,160097.82
+EMP-0371,DEP-004,2021-11-29,Active,,Technical Support Engineer,215638.55
+EMP-0372,DEP-003,2023-07-27,Active,,Performance Media Buyer,156759.1
+EMP-0373,DEP-003,2021-01-31,Active,,Growth Marketer,106415.17
+EMP-0374,DEP-004,2023-03-01,Active,,Escalations Lead,49373.48
+EMP-0375,DEP-003,2021-05-23,Active,,Performance Media Buyer,95285.2
+EMP-0376,DEP-001,2023-01-20,Active,,Account Manager,94741.09
+EMP-0377,DEP-005,2021-09-17,Active,,HR Operations Partner,50600.93
+EMP-0378,DEP-001,2021-10-30,Active,,Account Manager,86456.49
+EMP-0379,DEP-004,2023-01-31,Active,,Escalations Lead,129802.85
+EMP-0380,DEP-004,2023-07-10,Active,,Escalations Lead,118626.44
+EMP-0381,DEP-001,2022-04-06,Active,,Account Manager,168603.91
+EMP-0382,DEP-001,2021-06-18,Active,,Regional Sales Lead,46497.83
+EMP-0383,DEP-003,2023-11-13,Active,,Performance Media Buyer,113667.01
+EMP-0384,DEP-002,2024-01-03,Active,,Financial Analyst,130319.01
+EMP-0385,DEP-001,2021-06-03,Active,,Account Manager,159953.17
+EMP-0386,DEP-002,2023-01-01,Active,,Risk Analyst,86380.03
+EMP-0387,DEP-001,2023-06-18,Active,,Regional Sales Lead,90109.07
+EMP-0388,DEP-001,2021-02-08,Active,,Regional Sales Lead,51566.49
+EMP-0389,DEP-001,2023-07-18,Resigned,2024-10-19,Sales Executive,50914.8
+EMP-0390,DEP-006,2022-11-15,Active,,Logistics Coordinator,149718.14
+EMP-0391,DEP-005,2022-08-13,Active,,Training Coordinator,152153.51
+EMP-0392,DEP-003,2022-11-16,Active,,Brand Designer,48642.29
+EMP-0393,DEP-002,2022-08-03,Active,,Financial Analyst,172266.24
+EMP-0394,DEP-004,2021-05-23,Active,,Technical Support Engineer,198381.08
+EMP-0395,DEP-001,2022-12-10,Active,,Account Manager,41262.98
+EMP-0396,DEP-001,2022-12-21,Active,,Regional Sales Lead,48201.82
+EMP-0397,DEP-001,2021-05-09,Active,,Enterprise Deal Strategist,84454.68
+EMP-0398,DEP-004,2022-02-03,Active,,Escalations Lead,213284.06
+EMP-0399,DEP-005,2023-11-28,Resigned,2024-06-24,Training Coordinator,162202.44
+EMP-0400,DEP-003,2021-04-14,Active,,Performance Media Buyer,63118.39
+EMP-0401,DEP-001,2023-07-15,Active,,Account Manager,41281.96
+EMP-0402,DEP-002,2023-09-10,Active,,Treasury Specialist,68587.87
+EMP-0403,DEP-005,2022-04-19,Resigned,2023-08-03,Training Coordinator,61867.51
+EMP-0404,DEP-003,2023-09-18,Active,,Performance Media Buyer,55403.12
+EMP-0405,DEP-003,2023-05-09,Active,,Brand Designer,143588.76
+EMP-0406,DEP-004,2022-05-07,Active,,Escalations Lead,45863.8
+EMP-0407,DEP-002,2023-01-06,Active,,Accountant,213233.52
+EMP-0408,DEP-001,2021-04-24,Active,,Account Manager,123998.77
+EMP-0409,DEP-006,2023-01-03,Active,,Warehouse Supervisor,167356.71
+EMP-0410,DEP-004,2021-01-24,Active,,Technical Support Engineer,82561.82
+EMP-0411,DEP-006,2023-01-20,Resigned,2024-05-08,Supply Chain Planner,214232.51
+EMP-0412,DEP-006,2022-02-24,Active,,Warehouse Supervisor,113063.63
+EMP-0413,DEP-002,2021-10-01,Active,,Financial Analyst,172088.8
+EMP-0414,DEP-002,2023-12-19,Resigned,2024-07-16,Risk Analyst,140360.05
+EMP-0415,DEP-001,2021-03-12,Active,,Enterprise Deal Strategist,48578.03
+EMP-0416,DEP-005,2021-07-25,Active,,People Ops Lead,169911.13
+EMP-0417,DEP-004,2022-01-06,Active,,Customer Success Rep,60145.65
+EMP-0418,DEP-001,2023-05-23,Active,,Sales Executive,83408.51
+EMP-0419,DEP-006,2021-09-08,Active,,Logistics Coordinator,121287.06
+EMP-0420,DEP-005,2023-11-22,Resigned,2025-02-10,Training Coordinator,152239.77
+EMP-0421,DEP-006,2021-03-22,Active,,Logistics Coordinator,58142.09
+EMP-0422,DEP-001,2021-06-25,Active,,Regional Sales Lead,46446.09
+EMP-0423,DEP-004,2021-08-20,Active,,Escalations Lead,56449.57
+EMP-0424,DEP-006,2023-08-13,Active,,Warehouse Supervisor,58420.16
+EMP-0425,DEP-002,2023-06-30,Active,,Financial Analyst,82312.69
+EMP-0426,DEP-003,2021-09-18,Active,,Growth Marketer,109006.07
+EMP-0427,DEP-003,2021-04-08,Active,,Performance Media Buyer,227892.03
+EMP-0428,DEP-001,2023-03-09,Active,,Account Manager,146966.98
+EMP-0429,DEP-001,2021-01-01,Active,,Account Manager,230112.88
+EMP-0430,DEP-002,2022-11-20,Active,,Financial Analyst,67911.35
+EMP-0431,DEP-001,2022-08-19,Active,,Sales Executive,42888.76
+EMP-0432,DEP-002,2021-12-18,Active,,Treasury Specialist,63774.59
+EMP-0433,DEP-003,2021-05-31,Active,,Growth Marketer,110766.96
+EMP-0434,DEP-001,2022-03-17,Active,,Sales Executive,135683.91
+EMP-0435,DEP-003,2022-02-17,Active,,SEO Content Lead,49192.24
+EMP-0436,DEP-005,2021-02-03,Active,,People Ops Lead,68896.17
+EMP-0437,DEP-001,2021-12-04,Active,,Sales Executive,151800.53
+EMP-0438,DEP-006,2023-12-04,Active,,Supply Chain Planner,82207.76
+EMP-0439,DEP-003,2021-12-21,Active,,Performance Media Buyer,57359.97
+EMP-0440,DEP-003,2023-04-19,Active,,Brand Designer,88872.29
+EMP-0441,DEP-003,2022-02-04,Active,,Performance Media Buyer,78745.32
+EMP-0442,DEP-002,2021-05-29,Active,,Risk Analyst,136860.17
+EMP-0443,DEP-004,2023-06-21,Active,,Support Specialist,157906.56
+EMP-0444,DEP-001,2021-10-31,Active,,Regional Sales Lead,57405.69
+EMP-0445,DEP-006,2021-12-02,Active,,Supply Chain Planner,129975.73
+EMP-0446,DEP-006,2023-08-02,Active,,Warehouse Supervisor,235179.47
+EMP-0447,DEP-004,2023-05-13,Active,,Support Specialist,114173.48
+EMP-0448,DEP-005,2021-07-09,Resigned,2022-02-26,HR Operations Partner,60086.44
+EMP-0449,DEP-004,2021-10-08,Active,,Technical Support Engineer,46652.66
+EMP-0450,DEP-003,2021-03-09,Active,,Performance Media Buyer,227543.72
+EMP-0451,DEP-001,2023-10-16,Active,,Sales Executive,136545.85
+EMP-0452,DEP-002,2023-05-03,Resigned,2023-11-11,Treasury Specialist,55894.18
+EMP-0453,DEP-006,2023-08-06,Active,,Warehouse Supervisor,84627.76
+EMP-0454,DEP-004,2022-07-03,Active,,Support Specialist,97412.81
+EMP-0455,DEP-006,2022-01-13,Active,,Supply Chain Planner,48148.78
+EMP-0456,DEP-006,2021-07-06,Active,,Supply Chain Planner,123382.0
+EMP-0457,DEP-003,2022-06-10,Active,,Brand Designer,210669.95
+EMP-0458,DEP-003,2021-05-30,Active,,Brand Designer,68552.17
+EMP-0459,DEP-003,2021-11-10,Active,,SEO Content Lead,67528.12
+EMP-0460,DEP-003,2022-05-03,Resigned,2023-09-12,Brand Designer,123909.33
+EMP-0461,DEP-006,2022-08-19,Active,,Inventory Controller,66618.84
+EMP-0462,DEP-001,2023-03-07,Active,,Enterprise Deal Strategist,51101.52
+EMP-0463,DEP-001,2023-03-26,Active,,Regional Sales Lead,85197.79
+EMP-0464,DEP-002,2022-04-19,Active,,Financial Analyst,42711.35
+EMP-0465,DEP-005,2023-10-16,Active,,People Ops Lead,57577.56
+EMP-0466,DEP-006,2023-08-14,Active,,Warehouse Supervisor,67542.47
+EMP-0467,DEP-005,2021-06-03,Active,,People Ops Lead,118729.88
+EMP-0468,DEP-004,2023-04-19,Active,,Customer Success Rep,95437.99
+EMP-0469,DEP-006,2021-08-01,Active,,Inventory Controller,43410.33
+EMP-0470,DEP-001,2021-08-16,Active,,Account Manager,220340.85
+EMP-0471,DEP-004,2023-12-04,Active,,Escalations Lead,63358.57
+EMP-0472,DEP-002,2021-11-17,Active,,Accountant,55125.97
+EMP-0473,DEP-001,2021-10-19,Active,,Sales Executive,82340.47
+EMP-0474,DEP-001,2021-10-20,Active,,Sales Executive,215163.42
+EMP-0475,DEP-002,2023-08-12,Active,,Treasury Specialist,57339.89
+EMP-0476,DEP-001,2023-05-09,Active,,Enterprise Deal Strategist,50757.03
+EMP-0477,DEP-002,2021-09-26,Active,,Financial Analyst,207003.5
+EMP-0478,DEP-003,2022-01-15,Active,,Growth Marketer,196159.37
+EMP-0479,DEP-002,2022-12-01,Active,,Accountant,158401.91
+EMP-0480,DEP-005,2023-04-25,Active,,People Ops Lead,141679.37
+EMP-0481,DEP-002,2023-05-19,Active,,Risk Analyst,84480.86
+EMP-0482,DEP-001,2023-08-29,Active,,Account Manager,169478.42
+EMP-0483,DEP-001,2022-04-14,Active,,Sales Executive,50453.46
+EMP-0484,DEP-005,2023-01-13,Active,,Training Coordinator,122737.04
+EMP-0485,DEP-004,2021-08-29,Active,,Support Specialist,48246.89
+EMP-0486,DEP-004,2022-10-24,Active,,Escalations Lead,45323.63
+EMP-0487,DEP-003,2021-03-07,Active,,Brand Designer,59423.83
+EMP-0488,DEP-005,2023-05-21,Active,,People Ops Lead,233558.82
+EMP-0489,DEP-001,2022-09-16,Active,,Enterprise Deal Strategist,43214.22
+EMP-0490,DEP-001,2021-06-05,Resigned,2022-06-15,Regional Sales Lead,163715.33
+EMP-0491,DEP-001,2023-05-31,Active,,Sales Executive,49848.44
+EMP-0492,DEP-002,2022-10-26,Active,,Accountant,86552.84
+EMP-0493,DEP-001,2021-07-09,Resigned,2022-01-08,Enterprise Deal Strategist,192805.01
+EMP-0494,DEP-006,2021-01-22,Active,,Warehouse Supervisor,47770.26
+EMP-0495,DEP-001,2022-12-15,Active,,Enterprise Deal Strategist,96185.81
+EMP-0496,DEP-003,2021-05-22,Active,,Brand Designer,61855.67
+EMP-0497,DEP-004,2021-09-03,Active,,Escalations Lead,40835.67
+EMP-0498,DEP-006,2021-03-06,Active,,Supply Chain Planner,84642.96
+EMP-0499,DEP-006,2022-02-15,Active,,Supply Chain Planner,220183.58
+EMP-0500,DEP-001,2023-11-20,Active,,Regional Sales Lead,141651.13

@@ -1,0 +1,16 @@
+region_id,country,state,city,latitude,longitude,region_category
+REG-001,India,Maharashtra,Mumbai,19.076,72.8777,Metro Tier 1
+REG-002,India,Delhi,New Delhi,28.6139,77.209,Metro Tier 1
+REG-003,India,Karnataka,Bengaluru,12.9716,77.5946,Metro Tier 1
+REG-004,India,Telangana,Hyderabad,17.385,78.4867,Metro Tier 1
+REG-005,India,Tamil Nadu,Chennai,13.0827,80.2707,Metro Tier 1
+REG-006,India,West Bengal,Kolkata,22.5726,88.3639,Metro Tier 1
+REG-007,India,Maharashtra,Pune,18.5204,73.8567,Urban Tier 2
+REG-008,India,Gujarat,Ahmedabad,23.0225,72.5714,Urban Tier 2
+REG-009,India,Rajasthan,Jaipur,26.9124,75.7873,Urban Tier 2
+REG-010,India,Kerala,Kochi,9.9312,76.2673,Urban Tier 2
+REG-011,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Urban Tier 2
+REG-012,India,Punjab,Chandigarh,30.7333,76.7794,Urban Tier 2
+REG-013,India,Madhya Pradesh,Indore,22.7196,75.8577,Emerging Hub
+REG-014,India,Gujarat,Surat,21.1702,72.8311,Emerging Hub
+REG-015,India,Odisha,Bhubaneswar,20.2961,85.8245,Emerging Hub

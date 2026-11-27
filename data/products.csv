@@ -1,0 +1,301 @@
+product_id,product_name,category,subcategory,unit_price,unit_cost,supplier_id,product_status
+PRD-0001,Server Blades Model-1X,Enterprise Hardware,Server Blades,1185.36,817.0,SUP-115,Active
+PRD-0002,Server Blades Model-2X,Enterprise Hardware,Server Blades,3700.92,2060.26,SUP-135,Active
+PRD-0003,Server Blades Model-3X,Enterprise Hardware,Server Blades,1340.97,1031.89,SUP-106,Active
+PRD-0004,Server Blades Model-4X,Enterprise Hardware,Server Blades,5191.18,3017.81,SUP-136,Active
+PRD-0005,Server Blades Model-5X,Enterprise Hardware,Server Blades,6629.16,3636.51,SUP-127,Active
+PRD-0006,Server Blades Model-6X,Enterprise Hardware,Server Blades,4787.86,3294.99,SUP-101,Active
+PRD-0007,Server Blades Model-7X,Enterprise Hardware,Server Blades,3044.19,2032.66,SUP-110,Active
+PRD-0008,Server Blades Model-8X,Enterprise Hardware,Server Blades,5897.88,3945.23,SUP-106,Active
+PRD-0009,Server Blades Model-9X,Enterprise Hardware,Server Blades,42629.09,21328.48,SUP-139,Active
+PRD-0010,Server Blades Model-10X,Enterprise Hardware,Server Blades,14138.9,7623.53,SUP-135,Active
+PRD-0011,Edge Gateway Model-1X,Enterprise Hardware,Edge Gateway,1797.14,1177.28,SUP-136,Active
+PRD-0012,Edge Gateway Model-2X,Enterprise Hardware,Edge Gateway,13338.43,7681.45,SUP-124,Active
+PRD-0013,Edge Gateway Model-3X,Enterprise Hardware,Edge Gateway,4735.2,3621.85,SUP-115,Active
+PRD-0014,Edge Gateway Model-4X,Enterprise Hardware,Edge Gateway,16246.43,8086.58,SUP-107,Active
+PRD-0015,Edge Gateway Model-5X,Enterprise Hardware,Edge Gateway,40455.23,23068.55,SUP-124,Active
+PRD-0016,Edge Gateway Model-6X,Enterprise Hardware,Edge Gateway,2527.25,1796.53,SUP-118,Active
+PRD-0017,Edge Gateway Model-7X,Enterprise Hardware,Edge Gateway,1435.99,1038.97,SUP-116,Active
+PRD-0018,Edge Gateway Model-8X,Enterprise Hardware,Edge Gateway,2696.17,1862.83,SUP-136,Active
+PRD-0019,Edge Gateway Model-9X,Enterprise Hardware,Edge Gateway,7165.98,3596.31,SUP-104,Active
+PRD-0020,Edge Gateway Model-10X,Enterprise Hardware,Edge Gateway,7333.57,3771.91,SUP-126,Active
+PRD-0021,Network Switch Model-1X,Enterprise Hardware,Network Switch,11902.04,5697.09,SUP-137,Active
+PRD-0022,Network Switch Model-2X,Enterprise Hardware,Network Switch,18237.37,11220.61,SUP-130,Active
+PRD-0023,Network Switch Model-3X,Enterprise Hardware,Network Switch,2463.04,1720.71,SUP-136,Active
+PRD-0024,Network Switch Model-4X,Enterprise Hardware,Network Switch,11692.83,7467.24,SUP-138,Active
+PRD-0025,Network Switch Model-5X,Enterprise Hardware,Network Switch,52952.09,23875.17,SUP-109,Active
+PRD-0026,Network Switch Model-6X,Enterprise Hardware,Network Switch,55654.88,42545.46,SUP-108,Active
+PRD-0027,Network Switch Model-7X,Enterprise Hardware,Network Switch,3821.26,1981.76,SUP-128,Active
+PRD-0028,Network Switch Model-8X,Enterprise Hardware,Network Switch,1634.87,953.71,SUP-130,Active
+PRD-0029,Network Switch Model-9X,Enterprise Hardware,Network Switch,16231.31,8049.8,SUP-101,Active
+PRD-0030,Network Switch Model-10X,Enterprise Hardware,Network Switch,1769.33,1066.55,SUP-118,Active
+PRD-0031,Rack Unit Model-1X,Enterprise Hardware,Rack Unit,16865.65,10735.45,SUP-130,Active
+PRD-0032,Rack Unit Model-2X,Enterprise Hardware,Rack Unit,1128.77,554.19,SUP-117,Active
+PRD-0033,Rack Unit Model-3X,Enterprise Hardware,Rack Unit,2544.73,1895.53,SUP-120,Active
+PRD-0034,Rack Unit Model-4X,Enterprise Hardware,Rack Unit,5518.14,2915.63,SUP-135,Active
+PRD-0035,Rack Unit Model-5X,Enterprise Hardware,Rack Unit,792.41,490.31,SUP-108,Active
+PRD-0036,Rack Unit Model-6X,Enterprise Hardware,Rack Unit,28519.16,14417.87,SUP-120,Active
+PRD-0037,Rack Unit Model-7X,Enterprise Hardware,Rack Unit,5699.34,2794.14,SUP-106,Active
+PRD-0038,Rack Unit Model-8X,Enterprise Hardware,Rack Unit,2125.7,1085.62,SUP-135,Active
+PRD-0039,Rack Unit Model-9X,Enterprise Hardware,Rack Unit,2603.58,1622.44,SUP-136,Active
+PRD-0040,Rack Unit Model-10X,Enterprise Hardware,Rack Unit,3496.95,1720.84,SUP-128,Active
+PRD-0041,Power Distributor Model-1X,Enterprise Hardware,Power Distributor,7364.9,3909.01,SUP-113,Active
+PRD-0042,Power Distributor Model-2X,Enterprise Hardware,Power Distributor,11753.31,6562.38,SUP-124,Active
+PRD-0043,Power Distributor Model-3X,Enterprise Hardware,Power Distributor,92031.23,58072.59,SUP-116,Active
+PRD-0044,Power Distributor Model-4X,Enterprise Hardware,Power Distributor,3624.5,2801.95,SUP-136,Active
+PRD-0045,Power Distributor Model-5X,Enterprise Hardware,Power Distributor,4466.41,3473.2,SUP-104,Active
+PRD-0046,Power Distributor Model-6X,Enterprise Hardware,Power Distributor,3646.24,2806.27,SUP-122,Active
+PRD-0047,Power Distributor Model-7X,Enterprise Hardware,Power Distributor,1457.46,1002.88,SUP-132,Active
+PRD-0048,Power Distributor Model-8X,Enterprise Hardware,Power Distributor,6300.13,3410.22,SUP-137,Active
+PRD-0049,Power Distributor Model-9X,Enterprise Hardware,Power Distributor,72870.93,45465.55,SUP-127,Active
+PRD-0050,Power Distributor Model-10X,Enterprise Hardware,Power Distributor,5049.88,2840.74,SUP-123,Active
+PRD-0051,Thunderbolt Dock Model-1X,Cloud & Peripherals,Thunderbolt Dock,49191.58,24346.58,SUP-104,Active
+PRD-0052,Thunderbolt Dock Model-2X,Cloud & Peripherals,Thunderbolt Dock,1538.9,830.53,SUP-107,Active
+PRD-0053,Thunderbolt Dock Model-3X,Cloud & Peripherals,Thunderbolt Dock,4917.27,2965.24,SUP-109,Active
+PRD-0054,Thunderbolt Dock Model-4X,Cloud & Peripherals,Thunderbolt Dock,35326.53,22161.49,SUP-105,Active
+PRD-0055,Thunderbolt Dock Model-5X,Cloud & Peripherals,Thunderbolt Dock,113186.99,56314.03,SUP-107,Active
+PRD-0056,Thunderbolt Dock Model-6X,Cloud & Peripherals,Thunderbolt Dock,830.93,499.89,SUP-101,Active
+PRD-0057,Thunderbolt Dock Model-7X,Cloud & Peripherals,Thunderbolt Dock,2319.36,1159.52,SUP-111,Active
+PRD-0058,Thunderbolt Dock Model-8X,Cloud & Peripherals,Thunderbolt Dock,35325.5,25062.15,SUP-126,Active
+PRD-0059,Thunderbolt Dock Model-9X,Cloud & Peripherals,Thunderbolt Dock,528.85,412.13,SUP-125,Active
+PRD-0060,Thunderbolt Dock Model-10X,Cloud & Peripherals,Thunderbolt Dock,15231.02,7933.95,SUP-119,Active
+PRD-0061,Mesh Router Model-1X,Cloud & Peripherals,Mesh Router,50260.92,27087.28,SUP-136,Active
+PRD-0062,Mesh Router Model-2X,Cloud & Peripherals,Mesh Router,64173.83,43772.1,SUP-104,Active
+PRD-0063,Mesh Router Model-3X,Cloud & Peripherals,Mesh Router,679.43,517.14,SUP-138,Active
+PRD-0064,Mesh Router Model-4X,Cloud & Peripherals,Mesh Router,101192.31,50454.73,SUP-111,Active
+PRD-0065,Mesh Router Model-5X,Cloud & Peripherals,Mesh Router,737.08,555.44,SUP-112,Active
+PRD-0066,Mesh Router Model-6X,Cloud & Peripherals,Mesh Router,1855.07,1033.61,SUP-116,Active
+PRD-0067,Mesh Router Model-7X,Cloud & Peripherals,Mesh Router,44324.72,21550.91,SUP-116,Active
+PRD-0068,Mesh Router Model-8X,Cloud & Peripherals,Mesh Router,769.87,493.99,SUP-138,Active
+PRD-0069,Mesh Router Model-9X,Cloud & Peripherals,Mesh Router,20610.03,14686.59,SUP-121,Active
+PRD-0070,Mesh Router Model-10X,Cloud & Peripherals,Mesh Router,4153.02,3059.99,SUP-120,Discontinued
+PRD-0071,Enterprise SSD Model-1X,Cloud & Peripherals,Enterprise SSD,88121.73,46870.6,SUP-105,Active
+PRD-0072,Enterprise SSD Model-2X,Cloud & Peripherals,Enterprise SSD,1032.14,464.99,SUP-107,Active
+PRD-0073,Enterprise SSD Model-3X,Cloud & Peripherals,Enterprise SSD,1650.41,1011.8,SUP-109,Active
+PRD-0074,Enterprise SSD Model-4X,Cloud & Peripherals,Enterprise SSD,29454.77,14428.15,SUP-124,Active
+PRD-0075,Enterprise SSD Model-5X,Cloud & Peripherals,Enterprise SSD,11755.91,5935.14,SUP-120,Active
+PRD-0076,Enterprise SSD Model-6X,Cloud & Peripherals,Enterprise SSD,842.1,502.72,SUP-107,Active
+PRD-0077,Enterprise SSD Model-7X,Cloud & Peripherals,Enterprise SSD,3537.09,1720.42,SUP-136,Active
+PRD-0078,Enterprise SSD Model-8X,Cloud & Peripherals,Enterprise SSD,2973.93,1726.09,SUP-122,Active
+PRD-0079,Enterprise SSD Model-9X,Cloud & Peripherals,Enterprise SSD,7221.1,3600.0,SUP-133,Active
+PRD-0080,Enterprise SSD Model-10X,Cloud & Peripherals,Enterprise SSD,94984.0,45621.53,SUP-104,Active
+PRD-0081,Secure WebCam 4K Model-1X,Cloud & Peripherals,Secure WebCam 4K,2070.9,1048.53,SUP-103,Active
+PRD-0082,Secure WebCam 4K Model-2X,Cloud & Peripherals,Secure WebCam 4K,600.6,442.54,SUP-117,Active
+PRD-0083,Secure WebCam 4K Model-3X,Cloud & Peripherals,Secure WebCam 4K,3451.3,2063.69,SUP-128,Active
+PRD-0084,Secure WebCam 4K Model-4X,Cloud & Peripherals,Secure WebCam 4K,860.1,402.64,SUP-110,Active
+PRD-0085,Secure WebCam 4K Model-5X,Cloud & Peripherals,Secure WebCam 4K,906.36,532.73,SUP-110,Active
+PRD-0086,Secure WebCam 4K Model-6X,Cloud & Peripherals,Secure WebCam 4K,31880.12,21623.48,SUP-103,Active
+PRD-0087,Secure WebCam 4K Model-7X,Cloud & Peripherals,Secure WebCam 4K,16065.77,11208.37,SUP-107,Active
+PRD-0088,Secure WebCam 4K Model-8X,Cloud & Peripherals,Secure WebCam 4K,28561.13,13944.56,SUP-127,Active
+PRD-0089,Secure WebCam 4K Model-9X,Cloud & Peripherals,Secure WebCam 4K,3129.54,2196.55,SUP-111,Active
+PRD-0090,Secure WebCam 4K Model-10X,Cloud & Peripherals,Secure WebCam 4K,2804.56,2164.62,SUP-122,Active
+PRD-0091,Noise-Cancelling Headset Model-1X,Cloud & Peripherals,Noise-Cancelling Headset,56786.82,28101.46,SUP-116,Active
+PRD-0092,Noise-Cancelling Headset Model-2X,Cloud & Peripherals,Noise-Cancelling Headset,10826.0,5938.91,SUP-125,Active
+PRD-0093,Noise-Cancelling Headset Model-3X,Cloud & Peripherals,Noise-Cancelling Headset,760.05,537.05,SUP-130,Active
+PRD-0094,Noise-Cancelling Headset Model-4X,Cloud & Peripherals,Noise-Cancelling Headset,22539.34,11664.92,SUP-115,Active
+PRD-0095,Noise-Cancelling Headset Model-5X,Cloud & Peripherals,Noise-Cancelling Headset,3839.75,2750.29,SUP-122,Active
+PRD-0096,Noise-Cancelling Headset Model-6X,Cloud & Peripherals,Noise-Cancelling Headset,16862.38,7772.32,SUP-118,Active
+PRD-0097,Noise-Cancelling Headset Model-7X,Cloud & Peripherals,Noise-Cancelling Headset,20489.1,13279.11,SUP-135,Active
+PRD-0098,Noise-Cancelling Headset Model-8X,Cloud & Peripherals,Noise-Cancelling Headset,19824.24,14708.34,SUP-117,Active
+PRD-0099,Noise-Cancelling Headset Model-9X,Cloud & Peripherals,Noise-Cancelling Headset,4277.34,1948.02,SUP-103,Active
+PRD-0100,Noise-Cancelling Headset Model-10X,Cloud & Peripherals,Noise-Cancelling Headset,1553.03,1034.2,SUP-121,Active
+PRD-0101,Ergonomic Monitor Arm Model-1X,Office Tech,Ergonomic Monitor Arm,42896.43,26219.6,SUP-125,Active
+PRD-0102,Ergonomic Monitor Arm Model-2X,Office Tech,Ergonomic Monitor Arm,5577.8,3046.04,SUP-101,Active
+PRD-0103,Ergonomic Monitor Arm Model-3X,Office Tech,Ergonomic Monitor Arm,4209.49,3186.2,SUP-122,Active
+PRD-0104,Ergonomic Monitor Arm Model-4X,Office Tech,Ergonomic Monitor Arm,18114.41,13384.26,SUP-120,Active
+PRD-0105,Ergonomic Monitor Arm Model-5X,Office Tech,Ergonomic Monitor Arm,10796.19,7258.92,SUP-119,Active
+PRD-0106,Ergonomic Monitor Arm Model-6X,Office Tech,Ergonomic Monitor Arm,2975.74,1668.12,SUP-125,Active
+PRD-0107,Ergonomic Monitor Arm Model-7X,Office Tech,Ergonomic Monitor Arm,2898.79,1973.17,SUP-136,Active
+PRD-0108,Ergonomic Monitor Arm Model-8X,Office Tech,Ergonomic Monitor Arm,615.22,437.2,SUP-138,Active
+PRD-0109,Ergonomic Monitor Arm Model-9X,Office Tech,Ergonomic Monitor Arm,19606.04,12431.94,SUP-114,Active
+PRD-0110,Ergonomic Monitor Arm Model-10X,Office Tech,Ergonomic Monitor Arm,120969.37,56039.72,SUP-111,Active
+PRD-0111,Wireless Mechanical Keyboard Model-1X,Office Tech,Wireless Mechanical Keyboard,1631.83,915.34,SUP-140,Active
+PRD-0112,Wireless Mechanical Keyboard Model-2X,Office Tech,Wireless Mechanical Keyboard,22858.19,10648.26,SUP-116,Active
+PRD-0113,Wireless Mechanical Keyboard Model-3X,Office Tech,Wireless Mechanical Keyboard,8552.68,6109.07,SUP-102,Active
+PRD-0114,Wireless Mechanical Keyboard Model-4X,Office Tech,Wireless Mechanical Keyboard,684.48,426.57,SUP-105,Active
+PRD-0115,Wireless Mechanical Keyboard Model-5X,Office Tech,Wireless Mechanical Keyboard,85213.55,48757.27,SUP-113,Active
+PRD-0116,Wireless Mechanical Keyboard Model-6X,Office Tech,Wireless Mechanical Keyboard,35949.33,25146.02,SUP-101,Active
+PRD-0117,Wireless Mechanical Keyboard Model-7X,Office Tech,Wireless Mechanical Keyboard,1558.81,1103.3,SUP-134,Active
+PRD-0118,Wireless Mechanical Keyboard Model-8X,Office Tech,Wireless Mechanical Keyboard,59854.27,41764.19,SUP-108,Active
+PRD-0119,Wireless Mechanical Keyboard Model-9X,Office Tech,Wireless Mechanical Keyboard,69191.55,43360.11,SUP-134,Active
+PRD-0120,Wireless Mechanical Keyboard Model-10X,Office Tech,Wireless Mechanical Keyboard,30381.42,14760.19,SUP-140,Active
+PRD-0121,Ultra-Wide Monitor Model-1X,Office Tech,Ultra-Wide Monitor,47352.06,28373.46,SUP-111,Active
+PRD-0122,Ultra-Wide Monitor Model-2X,Office Tech,Ultra-Wide Monitor,92949.93,49441.34,SUP-118,Active
+PRD-0123,Ultra-Wide Monitor Model-3X,Office Tech,Ultra-Wide Monitor,76638.94,52833.57,SUP-105,Active
+PRD-0124,Ultra-Wide Monitor Model-4X,Office Tech,Ultra-Wide Monitor,9167.59,6134.68,SUP-135,Active
+PRD-0125,Ultra-Wide Monitor Model-5X,Office Tech,Ultra-Wide Monitor,1222.25,860.08,SUP-110,Active
+PRD-0126,Ultra-Wide Monitor Model-6X,Office Tech,Ultra-Wide Monitor,4341.2,2802.21,SUP-135,Active
+PRD-0127,Ultra-Wide Monitor Model-7X,Office Tech,Ultra-Wide Monitor,68539.85,48782.87,SUP-127,Active
+PRD-0128,Ultra-Wide Monitor Model-8X,Office Tech,Ultra-Wide Monitor,49529.61,29086.45,SUP-102,Active
+PRD-0129,Ultra-Wide Monitor Model-9X,Office Tech,Ultra-Wide Monitor,53272.05,24979.01,SUP-120,Active
+PRD-0130,Ultra-Wide Monitor Model-10X,Office Tech,Ultra-Wide Monitor,61441.91,28593.1,SUP-127,Active
+PRD-0131,Conference Speakerphone Model-1X,Office Tech,Conference Speakerphone,4848.21,3344.93,SUP-132,Active
+PRD-0132,Conference Speakerphone Model-2X,Office Tech,Conference Speakerphone,809.07,452.49,SUP-126,Active
+PRD-0133,Conference Speakerphone Model-3X,Office Tech,Conference Speakerphone,4480.44,2135.16,SUP-140,Active
+PRD-0134,Conference Speakerphone Model-4X,Office Tech,Conference Speakerphone,933.42,545.75,SUP-102,Active
+PRD-0135,Conference Speakerphone Model-5X,Office Tech,Conference Speakerphone,1430.51,1051.74,SUP-130,Active
+PRD-0136,Conference Speakerphone Model-6X,Office Tech,Conference Speakerphone,2391.53,1566.2,SUP-114,Active
+PRD-0137,Conference Speakerphone Model-7X,Office Tech,Conference Speakerphone,89024.12,47075.44,SUP-125,Active
+PRD-0138,Conference Speakerphone Model-8X,Office Tech,Conference Speakerphone,14798.71,7480.23,SUP-117,Active
+PRD-0139,Conference Speakerphone Model-9X,Office Tech,Conference Speakerphone,1850.94,986.22,SUP-104,Active
+PRD-0140,Conference Speakerphone Model-10X,Office Tech,Conference Speakerphone,14889.0,11276.27,SUP-103,Active
+PRD-0141,Desk Sensor Hub Model-1X,Office Tech,Desk Sensor Hub,774.88,553.43,SUP-102,Active
+PRD-0142,Desk Sensor Hub Model-2X,Office Tech,Desk Sensor Hub,2728.37,1701.75,SUP-108,Active
+PRD-0143,Desk Sensor Hub Model-3X,Office Tech,Desk Sensor Hub,4767.11,3315.24,SUP-124,Active
+PRD-0144,Desk Sensor Hub Model-4X,Office Tech,Desk Sensor Hub,4256.23,1966.24,SUP-108,Active
+PRD-0145,Desk Sensor Hub Model-5X,Office Tech,Desk Sensor Hub,2988.74,2224.6,SUP-102,Active
+PRD-0146,Desk Sensor Hub Model-6X,Office Tech,Desk Sensor Hub,14618.61,7022.07,SUP-125,Active
+PRD-0147,Desk Sensor Hub Model-7X,Office Tech,Desk Sensor Hub,41198.06,29438.12,SUP-138,Active
+PRD-0148,Desk Sensor Hub Model-8X,Office Tech,Desk Sensor Hub,5428.55,2850.43,SUP-139,Active
+PRD-0149,Desk Sensor Hub Model-9X,Office Tech,Desk Sensor Hub,1871.19,1110.07,SUP-103,Active
+PRD-0150,Desk Sensor Hub Model-10X,Office Tech,Desk Sensor Hub,22711.81,12757.18,SUP-105,Active
+PRD-0151,Vibration Sensor Model-1X,Industrial IoT,Vibration Sensor,15997.88,10260.73,SUP-132,Active
+PRD-0152,Vibration Sensor Model-2X,Industrial IoT,Vibration Sensor,1472.02,972.24,SUP-130,Active
+PRD-0153,Vibration Sensor Model-3X,Industrial IoT,Vibration Sensor,3427.64,1843.55,SUP-118,Active
+PRD-0154,Vibration Sensor Model-4X,Industrial IoT,Vibration Sensor,97979.97,49725.58,SUP-138,Active
+PRD-0155,Vibration Sensor Model-5X,Industrial IoT,Vibration Sensor,9103.16,6362.99,SUP-106,Discontinued
+PRD-0156,Vibration Sensor Model-6X,Industrial IoT,Vibration Sensor,11175.07,7817.24,SUP-130,Active
+PRD-0157,Vibration Sensor Model-7X,Industrial IoT,Vibration Sensor,38304.78,23629.41,SUP-121,Active
+PRD-0158,Vibration Sensor Model-8X,Industrial IoT,Vibration Sensor,2837.56,1881.04,SUP-117,Active
+PRD-0159,Vibration Sensor Model-9X,Industrial IoT,Vibration Sensor,19789.09,11542.36,SUP-118,Active
+PRD-0160,Vibration Sensor Model-10X,Industrial IoT,Vibration Sensor,663.21,475.49,SUP-116,Active
+PRD-0161,Smart Temperature Probe Model-1X,Industrial IoT,Smart Temperature Probe,47357.65,25090.35,SUP-131,Active
+PRD-0162,Smart Temperature Probe Model-2X,Industrial IoT,Smart Temperature Probe,63805.15,49404.95,SUP-119,Active
+PRD-0163,Smart Temperature Probe Model-3X,Industrial IoT,Smart Temperature Probe,4627.11,3237.63,SUP-138,Active
+PRD-0164,Smart Temperature Probe Model-4X,Industrial IoT,Smart Temperature Probe,20621.26,12471.65,SUP-128,Active
+PRD-0165,Smart Temperature Probe Model-5X,Industrial IoT,Smart Temperature Probe,18863.03,11888.69,SUP-120,Active
+PRD-0166,Smart Temperature Probe Model-6X,Industrial IoT,Smart Temperature Probe,11300.13,6124.4,SUP-121,Active
+PRD-0167,Smart Temperature Probe Model-7X,Industrial IoT,Smart Temperature Probe,2337.55,1089.79,SUP-112,Active
+PRD-0168,Smart Temperature Probe Model-8X,Industrial IoT,Smart Temperature Probe,4832.15,2996.97,SUP-138,Active
+PRD-0169,Smart Temperature Probe Model-9X,Industrial IoT,Smart Temperature Probe,15981.41,8074.33,SUP-119,Active
+PRD-0170,Smart Temperature Probe Model-10X,Industrial IoT,Smart Temperature Probe,4677.58,3181.93,SUP-135,Active
+PRD-0171,RFID Pallet Tracker Model-1X,Industrial IoT,RFID Pallet Tracker,3767.86,1727.5,SUP-136,Active
+PRD-0172,RFID Pallet Tracker Model-2X,Industrial IoT,RFID Pallet Tracker,9939.07,7338.29,SUP-132,Active
+PRD-0173,RFID Pallet Tracker Model-3X,Industrial IoT,RFID Pallet Tracker,1928.9,1139.13,SUP-131,Active
+PRD-0174,RFID Pallet Tracker Model-4X,Industrial IoT,RFID Pallet Tracker,68492.41,49257.0,SUP-104,Active
+PRD-0175,RFID Pallet Tracker Model-5X,Industrial IoT,RFID Pallet Tracker,12809.16,7971.77,SUP-105,Active
+PRD-0176,RFID Pallet Tracker Model-6X,Industrial IoT,RFID Pallet Tracker,42607.69,25120.77,SUP-104,Active
+PRD-0177,RFID Pallet Tracker Model-7X,Industrial IoT,RFID Pallet Tracker,2755.38,1637.42,SUP-120,Active
+PRD-0178,RFID Pallet Tracker Model-8X,Industrial IoT,RFID Pallet Tracker,1599.64,1185.19,SUP-127,Active
+PRD-0179,RFID Pallet Tracker Model-9X,Industrial IoT,RFID Pallet Tracker,5673.08,3712.89,SUP-129,Active
+PRD-0180,RFID Pallet Tracker Model-10X,Industrial IoT,RFID Pallet Tracker,17122.45,7761.43,SUP-120,Active
+PRD-0181,LoRa Gateway Model-1X,Industrial IoT,LoRa Gateway,918.73,492.23,SUP-114,Active
+PRD-0182,LoRa Gateway Model-2X,Industrial IoT,LoRa Gateway,4060.96,3058.75,SUP-116,Active
+PRD-0183,LoRa Gateway Model-3X,Industrial IoT,LoRa Gateway,2646.32,1927.43,SUP-127,Active
+PRD-0184,LoRa Gateway Model-4X,Industrial IoT,LoRa Gateway,86467.33,54035.93,SUP-103,Active
+PRD-0185,LoRa Gateway Model-5X,Industrial IoT,LoRa Gateway,4497.97,3088.77,SUP-130,Active
+PRD-0186,LoRa Gateway Model-6X,Industrial IoT,LoRa Gateway,2249.4,1068.71,SUP-138,Active
+PRD-0187,LoRa Gateway Model-7X,Industrial IoT,LoRa Gateway,5437.63,3264.18,SUP-110,Active
+PRD-0188,LoRa Gateway Model-8X,Industrial IoT,LoRa Gateway,10145.28,7674.24,SUP-111,Active
+PRD-0189,LoRa Gateway Model-9X,Industrial IoT,LoRa Gateway,13921.46,7072.11,SUP-119,Active
+PRD-0190,LoRa Gateway Model-10X,Industrial IoT,LoRa Gateway,78134.17,43187.59,SUP-126,Active
+PRD-0191,Air Quality Telemetry Model-1X,Industrial IoT,Air Quality Telemetry,11062.73,6826.23,SUP-106,Active
+PRD-0192,Air Quality Telemetry Model-2X,Industrial IoT,Air Quality Telemetry,1009.29,542.6,SUP-139,Active
+PRD-0193,Air Quality Telemetry Model-3X,Industrial IoT,Air Quality Telemetry,7938.41,5592.25,SUP-137,Active
+PRD-0194,Air Quality Telemetry Model-4X,Industrial IoT,Air Quality Telemetry,1007.66,562.42,SUP-118,Active
+PRD-0195,Air Quality Telemetry Model-5X,Industrial IoT,Air Quality Telemetry,719.84,519.86,SUP-134,Active
+PRD-0196,Air Quality Telemetry Model-6X,Industrial IoT,Air Quality Telemetry,81083.05,58388.6,SUP-138,Active
+PRD-0197,Air Quality Telemetry Model-7X,Industrial IoT,Air Quality Telemetry,42889.14,26493.93,SUP-106,Active
+PRD-0198,Air Quality Telemetry Model-8X,Industrial IoT,Air Quality Telemetry,70866.07,47480.85,SUP-107,Active
+PRD-0199,Air Quality Telemetry Model-9X,Industrial IoT,Air Quality Telemetry,3207.22,1767.46,SUP-119,Active
+PRD-0200,Air Quality Telemetry Model-10X,Industrial IoT,Air Quality Telemetry,47137.4,28210.23,SUP-130,Active
+PRD-0201,Biometric Terminal Model-1X,Security Systems,Biometric Terminal,1376.79,927.02,SUP-126,Active
+PRD-0202,Biometric Terminal Model-2X,Security Systems,Biometric Terminal,833.49,500.88,SUP-127,Active
+PRD-0203,Biometric Terminal Model-3X,Security Systems,Biometric Terminal,630.11,416.26,SUP-132,Active
+PRD-0204,Biometric Terminal Model-4X,Security Systems,Biometric Terminal,77707.37,55391.82,SUP-136,Active
+PRD-0205,Biometric Terminal Model-5X,Security Systems,Biometric Terminal,3458.99,2197.92,SUP-132,Active
+PRD-0206,Biometric Terminal Model-6X,Security Systems,Biometric Terminal,1430.66,818.47,SUP-116,Active
+PRD-0207,Biometric Terminal Model-7X,Security Systems,Biometric Terminal,2261.47,1753.74,SUP-127,Active
+PRD-0208,Biometric Terminal Model-8X,Security Systems,Biometric Terminal,1777.48,892.89,SUP-108,Active
+PRD-0209,Biometric Terminal Model-9X,Security Systems,Biometric Terminal,104164.18,58983.57,SUP-110,Active
+PRD-0210,Biometric Terminal Model-10X,Security Systems,Biometric Terminal,85868.32,58706.94,SUP-118,Active
+PRD-0211,Smart IP Camera 4K Model-1X,Security Systems,Smart IP Camera 4K,62239.1,28413.35,SUP-116,Active
+PRD-0212,Smart IP Camera 4K Model-2X,Security Systems,Smart IP Camera 4K,78639.4,51384.29,SUP-139,Active
+PRD-0213,Smart IP Camera 4K Model-3X,Security Systems,Smart IP Camera 4K,3124.25,2152.1,SUP-127,Active
+PRD-0214,Smart IP Camera 4K Model-4X,Security Systems,Smart IP Camera 4K,23976.61,14684.39,SUP-101,Active
+PRD-0215,Smart IP Camera 4K Model-5X,Security Systems,Smart IP Camera 4K,14718.52,7412.73,SUP-138,Active
+PRD-0216,Smart IP Camera 4K Model-6X,Security Systems,Smart IP Camera 4K,90751.55,57413.0,SUP-131,Active
+PRD-0217,Smart IP Camera 4K Model-7X,Security Systems,Smart IP Camera 4K,22329.7,11795.71,SUP-125,Active
+PRD-0218,Smart IP Camera 4K Model-8X,Security Systems,Smart IP Camera 4K,119081.17,58710.76,SUP-116,Active
+PRD-0219,Smart IP Camera 4K Model-9X,Security Systems,Smart IP Camera 4K,43204.51,22642.2,SUP-103,Active
+PRD-0220,Smart IP Camera 4K Model-10X,Security Systems,Smart IP Camera 4K,25169.4,13774.58,SUP-125,Active
+PRD-0221,Access Control Badge Model-1X,Security Systems,Access Control Badge,57643.56,29888.77,SUP-110,Active
+PRD-0222,Access Control Badge Model-2X,Security Systems,Access Control Badge,80348.8,59324.63,SUP-138,Active
+PRD-0223,Access Control Badge Model-3X,Security Systems,Access Control Badge,29245.29,14374.56,SUP-129,Active
+PRD-0224,Access Control Badge Model-4X,Security Systems,Access Control Badge,1600.98,1007.36,SUP-110,Active
+PRD-0225,Access Control Badge Model-5X,Security Systems,Access Control Badge,62535.48,28760.96,SUP-105,Active
+PRD-0226,Access Control Badge Model-6X,Security Systems,Access Control Badge,80580.31,55805.29,SUP-140,Active
+PRD-0227,Access Control Badge Model-7X,Security Systems,Access Control Badge,53392.46,26638.43,SUP-135,Active
+PRD-0228,Access Control Badge Model-8X,Security Systems,Access Control Badge,51573.61,29559.74,SUP-132,Active
+PRD-0229,Access Control Badge Model-9X,Security Systems,Access Control Badge,702.66,493.64,SUP-119,Active
+PRD-0230,Access Control Badge Model-10X,Security Systems,Access Control Badge,5772.49,3675.86,SUP-107,Active
+PRD-0231,Tamper Sensor Model-1X,Security Systems,Tamper Sensor,1771.57,976.1,SUP-102,Active
+PRD-0232,Tamper Sensor Model-2X,Security Systems,Tamper Sensor,578.99,440.89,SUP-123,Active
+PRD-0233,Tamper Sensor Model-3X,Security Systems,Tamper Sensor,17539.38,12267.3,SUP-127,Active
+PRD-0234,Tamper Sensor Model-4X,Security Systems,Tamper Sensor,2191.67,1652.39,SUP-125,Active
+PRD-0235,Tamper Sensor Model-5X,Security Systems,Tamper Sensor,5713.49,3357.01,SUP-115,Active
+PRD-0236,Tamper Sensor Model-6X,Security Systems,Tamper Sensor,84425.03,53047.77,SUP-101,Active
+PRD-0237,Tamper Sensor Model-7X,Security Systems,Tamper Sensor,104429.24,58103.22,SUP-111,Active
+PRD-0238,Tamper Sensor Model-8X,Security Systems,Tamper Sensor,1464.59,975.36,SUP-138,Active
+PRD-0239,Tamper Sensor Model-9X,Security Systems,Tamper Sensor,11228.89,7186.24,SUP-117,Active
+PRD-0240,Tamper Sensor Model-10X,Security Systems,Tamper Sensor,79844.83,57029.84,SUP-125,Active
+PRD-0241,Thermal Inspection Scanner Model-1X,Security Systems,Thermal Inspection Scanner,65501.42,42847.74,SUP-123,Active
+PRD-0242,Thermal Inspection Scanner Model-2X,Security Systems,Thermal Inspection Scanner,11875.64,8106.0,SUP-126,Active
+PRD-0243,Thermal Inspection Scanner Model-3X,Security Systems,Thermal Inspection Scanner,11214.84,5546.05,SUP-104,Active
+PRD-0244,Thermal Inspection Scanner Model-4X,Security Systems,Thermal Inspection Scanner,117814.94,56790.51,SUP-115,Active
+PRD-0245,Thermal Inspection Scanner Model-5X,Security Systems,Thermal Inspection Scanner,15686.47,11251.22,SUP-117,Active
+PRD-0246,Thermal Inspection Scanner Model-6X,Security Systems,Thermal Inspection Scanner,4113.79,1982.34,SUP-103,Active
+PRD-0247,Thermal Inspection Scanner Model-7X,Security Systems,Thermal Inspection Scanner,9851.09,7575.39,SUP-124,Active
+PRD-0248,Thermal Inspection Scanner Model-8X,Security Systems,Thermal Inspection Scanner,2336.46,1594.9,SUP-127,Active
+PRD-0249,Thermal Inspection Scanner Model-9X,Security Systems,Thermal Inspection Scanner,3217.54,1674.57,SUP-124,Active
+PRD-0250,Thermal Inspection Scanner Model-10X,Security Systems,Thermal Inspection Scanner,11053.27,7684.23,SUP-131,Active
+PRD-0251,Analytics Pro License Model-1X,Software Subscriptions,Analytics Pro License,11172.98,7466.05,SUP-108,Active
+PRD-0252,Analytics Pro License Model-2X,Software Subscriptions,Analytics Pro License,80822.76,59287.55,SUP-115,Active
+PRD-0253,Analytics Pro License Model-3X,Software Subscriptions,Analytics Pro License,57699.89,29685.79,SUP-124,Active
+PRD-0254,Analytics Pro License Model-4X,Software Subscriptions,Analytics Pro License,1428.88,1107.96,SUP-135,Active
+PRD-0255,Analytics Pro License Model-5X,Software Subscriptions,Analytics Pro License,1756.95,980.32,SUP-117,Active
+PRD-0256,Analytics Pro License Model-6X,Software Subscriptions,Analytics Pro License,60240.55,28295.21,SUP-107,Active
+PRD-0257,Analytics Pro License Model-7X,Software Subscriptions,Analytics Pro License,5774.46,3323.49,SUP-136,Active
+PRD-0258,Analytics Pro License Model-8X,Software Subscriptions,Analytics Pro License,20642.56,14593.23,SUP-105,Active
+PRD-0259,Analytics Pro License Model-9X,Software Subscriptions,Analytics Pro License,85641.91,58260.24,SUP-127,Active
+PRD-0260,Analytics Pro License Model-10X,Software Subscriptions,Analytics Pro License,1839.98,860.62,SUP-120,Active
+PRD-0261,Cloud Backup Tier 1 Model-1X,Software Subscriptions,Cloud Backup Tier 1,61250.58,43029.51,SUP-135,Active
+PRD-0262,Cloud Backup Tier 1 Model-2X,Software Subscriptions,Cloud Backup Tier 1,2752.3,1809.82,SUP-135,Out of Stock
+PRD-0263,Cloud Backup Tier 1 Model-3X,Software Subscriptions,Cloud Backup Tier 1,48199.55,26038.47,SUP-127,Active
+PRD-0264,Cloud Backup Tier 1 Model-4X,Software Subscriptions,Cloud Backup Tier 1,1949.09,1124.3,SUP-118,Active
+PRD-0265,Cloud Backup Tier 1 Model-5X,Software Subscriptions,Cloud Backup Tier 1,715.44,506.75,SUP-129,Active
+PRD-0266,Cloud Backup Tier 1 Model-6X,Software Subscriptions,Cloud Backup Tier 1,5105.61,3814.98,SUP-124,Active
+PRD-0267,Cloud Backup Tier 1 Model-7X,Software Subscriptions,Cloud Backup Tier 1,15226.8,10490.64,SUP-108,Active
+PRD-0268,Cloud Backup Tier 1 Model-8X,Software Subscriptions,Cloud Backup Tier 1,59943.42,42560.13,SUP-139,Active
+PRD-0269,Cloud Backup Tier 1 Model-9X,Software Subscriptions,Cloud Backup Tier 1,584.53,391.6,SUP-109,Active
+PRD-0270,Cloud Backup Tier 1 Model-10X,Software Subscriptions,Cloud Backup Tier 1,5322.9,2807.82,SUP-114,Active
+PRD-0271,Cyber Defense Suite Model-1X,Software Subscriptions,Cyber Defense Suite,5348.68,3760.71,SUP-110,Active
+PRD-0272,Cyber Defense Suite Model-2X,Software Subscriptions,Cyber Defense Suite,949.79,432.41,SUP-109,Active
+PRD-0273,Cyber Defense Suite Model-3X,Software Subscriptions,Cyber Defense Suite,10220.37,7601.14,SUP-102,Active
+PRD-0274,Cyber Defense Suite Model-4X,Software Subscriptions,Cyber Defense Suite,2966.85,1540.7,SUP-116,Active
+PRD-0275,Cyber Defense Suite Model-5X,Software Subscriptions,Cyber Defense Suite,14840.16,10275.75,SUP-109,Active
+PRD-0276,Cyber Defense Suite Model-6X,Software Subscriptions,Cyber Defense Suite,47666.17,25450.42,SUP-131,Active
+PRD-0277,Cyber Defense Suite Model-7X,Software Subscriptions,Cyber Defense Suite,91279.16,55737.93,SUP-107,Active
+PRD-0278,Cyber Defense Suite Model-8X,Software Subscriptions,Cyber Defense Suite,107846.83,50473.7,SUP-103,Active
+PRD-0279,Cyber Defense Suite Model-9X,Software Subscriptions,Cyber Defense Suite,14540.65,6715.91,SUP-104,Active
+PRD-0280,Cyber Defense Suite Model-10X,Software Subscriptions,Cyber Defense Suite,89262.44,57068.13,SUP-107,Active
+PRD-0281,API Gateway Pro Model-1X,Software Subscriptions,API Gateway Pro,85978.55,54478.11,SUP-106,Active
+PRD-0282,API Gateway Pro Model-2X,Software Subscriptions,API Gateway Pro,17301.07,13119.83,SUP-118,Active
+PRD-0283,API Gateway Pro Model-3X,Software Subscriptions,API Gateway Pro,20636.73,12028.34,SUP-119,Active
+PRD-0284,API Gateway Pro Model-4X,Software Subscriptions,API Gateway Pro,79159.67,50506.58,SUP-108,Active
+PRD-0285,API Gateway Pro Model-5X,Software Subscriptions,API Gateway Pro,6716.55,3270.49,SUP-127,Active
+PRD-0286,API Gateway Pro Model-6X,Software Subscriptions,API Gateway Pro,21855.64,14171.61,SUP-107,Active
+PRD-0287,API Gateway Pro Model-7X,Software Subscriptions,API Gateway Pro,21852.19,12248.47,SUP-124,Active
+PRD-0288,API Gateway Pro Model-8X,Software Subscriptions,API Gateway Pro,3247.05,2024.51,SUP-106,Active
+PRD-0289,API Gateway Pro Model-9X,Software Subscriptions,API Gateway Pro,1126.71,842.93,SUP-124,Active
+PRD-0290,API Gateway Pro Model-10X,Software Subscriptions,API Gateway Pro,3291.9,1930.59,SUP-136,Active
+PRD-0291,IoT Fleet Manager Model-1X,Software Subscriptions,IoT Fleet Manager,20818.39,13416.06,SUP-128,Active
+PRD-0292,IoT Fleet Manager Model-2X,Software Subscriptions,IoT Fleet Manager,956.94,556.81,SUP-123,Active
+PRD-0293,IoT Fleet Manager Model-3X,Software Subscriptions,IoT Fleet Manager,1447.05,1027.11,SUP-131,Active
+PRD-0294,IoT Fleet Manager Model-4X,Software Subscriptions,IoT Fleet Manager,5725.7,3804.51,SUP-136,Active
+PRD-0295,IoT Fleet Manager Model-5X,Software Subscriptions,IoT Fleet Manager,15625.46,10751.45,SUP-115,Active
+PRD-0296,IoT Fleet Manager Model-6X,Software Subscriptions,IoT Fleet Manager,62202.25,28513.49,SUP-140,Active
+PRD-0297,IoT Fleet Manager Model-7X,Software Subscriptions,IoT Fleet Manager,874.23,492.12,SUP-118,Active
+PRD-0298,IoT Fleet Manager Model-8X,Software Subscriptions,IoT Fleet Manager,757.09,414.97,SUP-120,Active
+PRD-0299,IoT Fleet Manager Model-9X,Software Subscriptions,IoT Fleet Manager,16503.7,11884.91,SUP-110,Active
+PRD-0300,IoT Fleet Manager Model-10X,Software Subscriptions,IoT Fleet Manager,39344.16,21068.02,SUP-102,Active
